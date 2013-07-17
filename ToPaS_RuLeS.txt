@@ -1,0 +1,9 @@
+
+Aturan ini buat sebagai panduan dasar untuk operasional aplikasi:
+
+1. pastikan anda tahu port dan baudrate modem.
+2. matikan aplikasi modem internet (jika ada).
+3. jika anda mendapat peringatan signal rendah (kurang dari 60%) pada waktu loading modem, tidak terima sms (keterlambatan) adalah wajar.
+4a. catat dan simpan user owner.
+4b. ubah dan atau tambah user Owner.
+
